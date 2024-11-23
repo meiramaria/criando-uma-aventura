@@ -1,8 +1,9 @@
 body{
     background-color:bisque;
-    color:white;
+    color: black;
     font-family: "Bai Jamjuree", sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 700;
 }
