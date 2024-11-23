@@ -20,5 +20,5 @@ display: none;
 }
 
 .passo.ativo{
-    display: none;
+    display: block;
 }
